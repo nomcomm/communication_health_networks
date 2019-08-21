@@ -1,2 +1,11 @@
-# Google App Engine generated folder
-appengine-generated/
+.ipynb_checkpoints
+.Rhistory
+.DS_Store
+.mov
+/Users/Ralf/My_Cloud/RalfsFunctions/GITHUB/nomcomm/communication_neuroscience/scripts/nilearn_cache/*
+.ipynb_checkpoints/*
+.mp4
+.jpg
+.png
+.json
+.pkl
